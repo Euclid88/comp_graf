@@ -1,0 +1,6 @@
+﻿  Render.cpp
+H:\проекты\grafika_lab2-master\OpenGLrememberProj\Render.cpp(120,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+H:\проекты\grafika_lab2-master\OpenGLrememberProj\Render.cpp(120,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+H:\проекты\grafika_lab2-master\OpenGLrememberProj\Render.cpp(120,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+H:\проекты\grafika_lab2-master\OpenGLrememberProj\Render.cpp(463,12): warning C4101: PastCirPoint: неиспользованная локальная переменная
+  OpenGLrememberProj.vcxproj -> H:\проекты\grafika_lab2-master\Debug\OpenGLrememberProj.exe
